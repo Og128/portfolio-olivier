@@ -47,6 +47,14 @@ const Hero = () => {
                 style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '50%' }}
               />
             </div>
+            <a
+              href="/resume.pdf"
+              download
+              className="btn btn-secondary"
+              style={{ marginTop: '16px', fontSize: '14px', height: '40px', padding: '0 20px', display: 'inline-flex' }}
+            >
+              ↓ {t('downloadResume')}
+            </a>
           </div>
 
           {/* Text + Skills */}

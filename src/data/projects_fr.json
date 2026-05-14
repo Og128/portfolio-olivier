@@ -381,5 +381,54 @@
       "Développement itératif avec retours client continus et tests en live",
       "Diagnostic et résolution de problèmes en environnement de production"
     ]
+  },
+
+  "projet18": {
+    "id": "projet18",
+    "link": "https://davidrodriguez.studio",
+    "title": "Portfolio d'Artiste — David Rodriguez",
+    "type": "Work",
+    "status": "Completed",
+    "image": "/imgs/Projet_18/logo.png",
+    "images": [
+      "/imgs/Projet_18/screenshot-home.png",
+      "/imgs/Projet_18/screenshot-arts.png",
+      "/imgs/Projet_18/screenshot-detail.png",
+      "/imgs/Projet_18/screenshot-gallery.png",
+      "/imgs/Projet_18/screenshot-about.png",
+      "/imgs/Projet_18/screenshot-mobile.png"
+    ],
+    "technologies": [
+      "React 18",
+      "React Router DOM",
+      "Framer Motion",
+      "Embla Carousel",
+      "React PDF",
+      "Formspree",
+      "DOMPurify",
+      "React Helmet",
+      "CSS Variables",
+      "Create React App"
+    ],
+    "description": "Conception et développement d'un site portfolio complet pour David Rodriguez, artiste visuel colombo-français basé à Bangkok. Application React multi-pages présentant ses collections d'expositions, œuvres individuelles, articles de presse et un formulaire de contact, déployée sur davidrodriguez.studio.",
+    "challenge": "Le site devait présenter un contenu riche — carrousels d'exposition, PDFs intégrés, galeries d'œuvres individuelles et vidéo — sur des écrans très variés, tout en maintenant une esthétique de galerie haut de gamme et des temps de chargement rapides pour un public international.",
+    "solution": "Application structurée autour d'une hiérarchie React Router imbriquée calquée sur le modèle de contenu de l'artiste (Collections → Exposition → Œuvre/Article). Utilisation de Framer Motion pour les animations en cascade, Embla Carousel avec support du geste molette, et React PDF pour l'affichage des articles de presse en ligne. Implémentation de paires WebP + JPG fallback pour toutes les images et assainissement du contenu HTML avec DOMPurify. Intégration de Formspree pour la gestion du formulaire de contact sans serveur.",
+    "results": [
+      "Livraison d'un site en production sur davidrodriguez.studio couvrant deux types de collections, deux expositions complètes et sept articles de presse",
+      "Modèle de données JSON scalable permettant d'ajouter de nouvelles expositions et œuvres sans modification du code",
+      "Fondations SEO incluant le balisage Schema.org, les méta-tags Open Graph et Twitter Card, et les titres de page dynamiques via React Helmet",
+      "Mise en page responsive sur mobile et desktop avec menu hamburger personnalisé et grilles de colonnes adaptatives",
+      "Intégration de la visualisation PDF, de la lecture automatique de vidéos en carrousel et de l'optimisation WebP dans un système de design cohérent"
+    ],
+    "skills": [
+      "Architecture SPA avec routing imbriqué",
+      "Design UI responsive pour contenu riche en médias",
+      "Optimisation des performances (WebP/JPG fallback, lazy loading via Intersection Observer)",
+      "Implémentation SEO (Schema.org, Open Graph, React Helmet)",
+      "Modélisation du contenu client et conception de la structure de données (pattern CMS JSON)",
+      "Intégration de services tiers (formulaire de contact Formspree)",
+      "Rendu HTML accessible et assaini (DOMPurify)",
+      "Design des animations et interactions (Framer Motion, Embla Carousel)"
+    ]
   }
 }

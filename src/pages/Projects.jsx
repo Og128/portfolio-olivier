@@ -40,9 +40,9 @@ const Projects = () => {
   const visibleFilters = Object.entries(projectCounts).filter(([, count]) => count > 0);
 
   return (
-    <div style={{ paddingTop: '72px' }}>
+    <div>
       {/* Header Section */}
-      <section style={{ padding: '40px 0 24px' }}>
+      <section style={{ padding: '56px 0 24px' }}>
         <div className="container">
           <div style={{ textAlign: 'center', marginBottom: '32px' }}>
             <h1>{t('projectsTitle')}</h1>

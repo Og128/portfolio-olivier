@@ -381,5 +381,54 @@
       "Iterative development with continuous client feedback and live testing",
       "Debugging and diagnosing production environment issues"
     ]
+  },
+
+  "projet18": {
+    "id": "projet18",
+    "link": "https://davidrodriguez.studio",
+    "title": "Artist Portfolio Website — David Rodriguez",
+    "type": "Work",
+    "status": "Completed",
+    "image": "/imgs/Projet_18/logo.png",
+    "images": [
+      "/imgs/Projet_18/screenshot-home.png",
+      "/imgs/Projet_18/screenshot-arts.png",
+      "/imgs/Projet_18/screenshot-detail.png",
+      "/imgs/Projet_18/screenshot-gallery.png",
+      "/imgs/Projet_18/screenshot-about.png",
+      "/imgs/Projet_18/screenshot-mobile.png"
+    ],
+    "technologies": [
+      "React 18",
+      "React Router DOM",
+      "Framer Motion",
+      "Embla Carousel",
+      "React PDF",
+      "Formspree",
+      "DOMPurify",
+      "React Helmet",
+      "CSS Variables",
+      "Create React App"
+    ],
+    "description": "Designed and developed a full-featured portfolio website for David Rodriguez, a Colombian-French visual artist based in Bangkok. Built a multi-page React SPA showcasing his exhibition collections, individual artworks, press articles, and a contact form, deployed at davidrodriguez.studio.",
+    "challenge": "The site needed to present rich media content — exhibition carousels, embedded PDFs, individual artwork galleries, and video — across a highly varied set of screens, while maintaining a refined, gallery-level aesthetic and fast load times for an international audience.",
+    "solution": "Structured the app around a nested React Router hierarchy matching the artist's content model (Collections → Exhibition → Artwork/Article). Used Framer Motion for staggered entry animations, Embla Carousel with wheel gesture support, and React PDF for inline press article display. Implemented WebP + JPG fallback pairs for all artwork images and sanitized HTML-rich content with DOMPurify. Integrated Formspree for serverless contact form handling.",
+    "results": [
+      "Delivered a fully deployed production website at davidrodriguez.studio covering two collection types, two complete exhibitions, and seven press articles",
+      "Built a scalable JSON-driven data model allowing new exhibitions and artworks to be added without code changes",
+      "Implemented SEO foundations including Schema.org markup, Open Graph and Twitter Card meta tags, and dynamic page titles via React Helmet",
+      "Achieved responsive layout across mobile and desktop with a custom hamburger menu and adaptive column grids",
+      "Integrated PDF viewing, video autoplay in carousels, and WebP image optimization within a single coherent design system"
+    ],
+    "skills": [
+      "Single-page application architecture with nested routing",
+      "Responsive UI design for media-heavy content",
+      "Performance optimization (WebP/JPG fallback, lazy loading via Intersection Observer)",
+      "SEO implementation (Schema.org, Open Graph, React Helmet)",
+      "Client content modeling and data structure design (JSON-driven CMS pattern)",
+      "Third-party service integration (Formspree contact form)",
+      "Accessible and sanitized HTML rendering (DOMPurify)",
+      "Animation and interaction design (Framer Motion, Embla Carousel)"
+    ]
   }
 }
