@@ -1,0 +1,362 @@
+[
+  {
+    "query": "healthcare patient portal showing medical records and appointment scheduling",
+    "image_info": {
+      "url": "https://belitsoft.com/uploads/patient-portal%20(1).png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 296820,
+      "width": 1440,
+      "height": 900,
+      "total_pixels": 1296000,
+      "basic_score": 0.9193611674445741,
+      "file_name": "healthcare_portal_2.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "healthcare patient portal showing medical records and appointment scheduling",
+    "image_info": {
+      "url": "https://struongux.com/img/macbookportal.png",
+      "img_format": "PNG",
+      "mode": "P",
+      "file_size": 40387,
+      "width": 1000,
+      "height": 603,
+      "total_pixels": 603000,
+      "basic_score": 0.8623109525336468,
+      "file_name": "healthcare_portal_9.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "healthcare patient portal showing medical records and appointment scheduling",
+    "image_info": {
+      "url": "https://img.freepik.com/free-vector/medical-booking-application-interface-with-photo_23-2148562182.jpg?semt=ais_hybrid&w=740&q=80",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 42695,
+      "width": 740,
+      "height": 493,
+      "total_pixels": 364820,
+      "basic_score": 0.8091956554903581,
+      "file_name": "healthcare_portal_3.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "modern mobile banking application interface with clean design",
+    "image_info": {
+      "url": "https://elements-resized.envatousercontent.com/elements-cover-images/26af01dc-3603-462b-80d0-d4c140eef9b8?w=1200&h=630&cf_fit=crop&q=85&format=jpeg&s=e2fa17443c53a7950ae309bf1a69bb4ec2cf17e98e2302bc0a3ba12e3732377b",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 107616,
+      "width": 1200,
+      "height": 630,
+      "total_pixels": 756000,
+      "basic_score": 0.9074081506960677,
+      "file_name": "mobile_banking_5.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "modern mobile banking application interface with clean design",
+    "image_info": {
+      "url": "https://s3-alpha.figma.com/hub/file/3881404495/444efcbe-82e7-4d4c-a1dd-c9c689067349-cover.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 305172,
+      "width": 1424,
+      "height": 982,
+      "total_pixels": 1398368,
+      "basic_score": 0.9047006897457167,
+      "file_name": "mobile_banking_1.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "modern mobile banking application interface with clean design",
+    "image_info": {
+      "url": "https://d1tzxux72fvryy.cloudfront.net/M87920126cb176d6696b42d7c0cba37a91714978424766/preview/M87920126cb176d6696b42d7c0cba37a91714978424766.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 187035,
+      "width": 1448,
+      "height": 975,
+      "total_pixels": 1411800,
+      "basic_score": 0.8936598229521548,
+      "file_name": "mobile_banking_0.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "retail inventory management interface with product tracking and analytics",
+    "image_info": {
+      "url": "https://images.ctfassets.net/hfb264dqso7g/7BIuhKgTlUYlNRQrWwd9FE/d3bd1aa1d0a9dadd21a4601035a2e123/multichannel-orders-screenshot.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 104478,
+      "width": 1200,
+      "height": 758,
+      "total_pixels": 909600,
+      "basic_score": 0.9286713896171608,
+      "file_name": "inventory_management_1.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "retail inventory management interface with product tracking and analytics",
+    "image_info": {
+      "url": "https://www.netsuite.com/portal/assets/img/products-redwood/erp/warehouse-fulfillment/thmb-1180-inventory-management.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 90453,
+      "width": 1180,
+      "height": 745,
+      "total_pixels": 879100,
+      "basic_score": 0.9247964754456712,
+      "file_name": "inventory_management_5.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "retail inventory management interface with product tracking and analytics",
+    "image_info": {
+      "url": "https://cdn.shopify.com/s/files/1/0817/7988/4088/files/KV5vdF5LKv9fvbPGzCdFR.png",
+      "img_format": "PNG",
+      "mode": "RGB",
+      "file_size": 305182,
+      "width": 1100,
+      "height": 680,
+      "total_pixels": 748000,
+      "basic_score": 0.916614580793895,
+      "file_name": "inventory_management_3.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "supply chain logistics dashboard showing data visualization and optimization",
+    "image_info": {
+      "url": "https://cdn.boldbi.com/wp/pages/dashboards/supply-chain/supply-chain-inventory-management-v1-banner.webp",
+      "img_format": "WEBP",
+      "mode": "RGBA",
+      "file_size": 57368,
+      "width": 1313,
+      "height": 901,
+      "total_pixels": 1183013,
+      "basic_score": 0.9335270542781475,
+      "file_name": "supply_chain_5.webp"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "supply chain logistics dashboard showing data visualization and optimization",
+    "image_info": {
+      "url": "https://www.slideteam.net/media/catalog/product/cache/1280x720/s/u/supply_chain_dashboard_to_measure_shipping_status_logistics_optimization_models_slide01.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 97119,
+      "width": 1280,
+      "height": 720,
+      "total_pixels": 921600,
+      "basic_score": 0.9296206205057328,
+      "file_name": "supply_chain_6.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "supply chain logistics dashboard showing data visualization and optimization",
+    "image_info": {
+      "url": "https://www.inetsoft.com/images/supply-chain-dashboard.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 70158,
+      "width": 1370,
+      "height": 791,
+      "total_pixels": 1083670,
+      "basic_score": 0.9295647189982903,
+      "file_name": "supply_chain_4.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "university campus management system showing student records and scheduling",
+    "image_info": {
+      "url": "https://i.ytimg.com/vi/ZjIFYuBJ930/maxresdefault.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 109159,
+      "width": 1280,
+      "height": 720,
+      "total_pixels": 921600,
+      "basic_score": 0.9308161495698938,
+      "file_name": "campus_management_3.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "university campus management system showing student records and scheduling",
+    "image_info": {
+      "url": "https://media.geeksforgeeks.org/wp-content/uploads/20210607140102/HODinterface1.jpg",
+      "img_format": "PNG",
+      "mode": "RGB",
+      "file_size": 360245,
+      "width": 1100,
+      "height": 619,
+      "total_pixels": 680900,
+      "basic_score": 0.9125237625965895,
+      "file_name": "campus_management_5.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "university campus management system showing student records and scheduling",
+    "image_info": {
+      "url": "https://repository-images.githubusercontent.com/480011548/a04d4c0f-bd29-4783-b8dc-dd6c600482e8",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 255598,
+      "width": 1281,
+      "height": 640,
+      "total_pixels": 819840,
+      "basic_score": 0.911185028616447,
+      "file_name": "campus_management_4.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "marketing automation platform showing email campaigns and analytics",
+    "image_info": {
+      "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/b0cfc5205536301.67df1b9c27f1f.jpg",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 129842,
+      "width": 1400,
+      "height": 900,
+      "total_pixels": 1260000,
+      "basic_score": 0.9322474843875641,
+      "file_name": "marketing_platform_1.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "marketing automation platform showing email campaigns and analytics",
+    "image_info": {
+      "url": "https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F78IvtXw6nn58aF47OBSG9G%2F27b944d10f7c5225c1d8ac11a83ae8c4%2Fmarketing-agency-client-reporting-access.png&w=3840&q=75",
+      "img_format": "PNG",
+      "mode": "P",
+      "file_size": 40374,
+      "width": 1200,
+      "height": 1000,
+      "total_pixels": 1200000,
+      "basic_score": 0.9030706587460854,
+      "file_name": "marketing_platform_8.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "marketing automation platform showing email campaigns and analytics",
+    "image_info": {
+      "url": "https://www.hubspot.com/hs-fs/hubfs/assets/hubspot.com/web-team/WBZ/Feature%20Pages/reporting-dashboards/dashboards-hero-en.png?width=1030&name=dashboards-hero-en.png",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 58389,
+      "width": 1030,
+      "height": 654,
+      "total_pixels": 673620,
+      "basic_score": 0.8921083819706421,
+      "file_name": "marketing_platform_0.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "professional project management dashboard interface showing charts and metrics",
+    "image_info": {
+      "url": "https://s3-alpha.figma.com/hub/file/5680339409/62aa63f6-c5ed-4f61-b71b-a15ff2be1107-cover.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 271337,
+      "width": 1350,
+      "height": 960,
+      "total_pixels": 1296000,
+      "basic_score": 0.9183090065208901,
+      "file_name": "project_dashboard_6.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "professional project management dashboard interface showing charts and metrics",
+    "image_info": {
+      "url": "https://cdn.dribbble.com/userupload/17953436/file/original-6e66c60b519ce498109b1153cf566f2b.png?resize=752x&vertical=center",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 231055,
+      "width": 752,
+      "height": 564,
+      "total_pixels": 424128,
+      "basic_score": 0.8402430934946921,
+      "file_name": "project_dashboard_3.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "professional project management dashboard interface showing charts and metrics",
+    "image_info": {
+      "url": "https://yi-files.yellowimages.com/products/1032000/1032840/1723295-full.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 279263,
+      "width": 1600,
+      "height": 1066,
+      "total_pixels": 1705600,
+      "basic_score": 0.8395226116937152,
+      "file_name": "project_dashboard_9.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "smart city IoT dashboard showing traffic and environmental data visualization",
+    "image_info": {
+      "url": "https://slidemodel.com/wp-content/uploads/20007-01-smart-monitoring-dashboard-powerpoint-template-16x9-1.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 158507,
+      "width": 1280,
+      "height": 720,
+      "total_pixels": 921600,
+      "basic_score": 0.9355708930451477,
+      "file_name": "smart_city_0.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "smart city IoT dashboard showing traffic and environmental data visualization",
+    "image_info": {
+      "url": "https://www.supermap.com/en-us/upLoad/case/2202081425217881254.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 327468,
+      "width": 1366,
+      "height": 667,
+      "total_pixels": 911122,
+      "basic_score": 0.9199494165875381,
+      "file_name": "smart_city_5.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "smart city IoT dashboard showing traffic and environmental data visualization",
+    "image_info": {
+      "url": "https://www.kaaiot.com/img/iot-dashboards/db-3.webp",
+      "img_format": "WEBP",
+      "mode": "RGBA",
+      "file_size": 106952,
+      "width": 876,
+      "height": 576,
+      "total_pixels": 504576,
+      "basic_score": 0.8690367420020474,
+      "file_name": "smart_city_3.webp"
+    },
+    "llm_score": null
+  }
+]

@@ -1,0 +1,148 @@
+{
+  "home": "Home",
+  "projects": "Projects",
+  "contact": "Contact",
+
+  "heroTitle": "Digital Project Manager",
+  "viewProjects": "View My Projects",
+  "getInTouch": "Get In Touch",
+
+  "aboutTitle": "About Me",
+  "aboutIntro": "I run IT projects end-to-end — and I can actually read the code. I write functional specs, manage vendors, coordinate cross-functional teams, and debug issues myself in JavaScript or PHP. That combination is rare.",
+  "aboutBackground": "I've delivered a large-scale CRM for thousands of certified professionals, managed an external dev agency, and shipped a full e-commerce platform solo. RNCP-certified in both project management (Level 6) and web development (Level 5).",
+  "aboutPassion": "Based in Bangkok. Open to remote or relocation. Outside work: hardware, networking, and F1 Sundays.",
+  "coreSkills": "Core Skills",
+  "aboutSkills": [
+    "End-to-end IT Project Delivery",
+    "Requirements & Functional Specs",
+    "Vendor Management & SLA Oversight",
+    "Agile & Waterfall Methodologies",
+    "Cross-functional Team Coordination",
+    "JavaScript / ReactJS / Node.js / PHP",
+    "PostgreSQL / REST API / Git"
+  ],
+
+  "experienceTitle": "Work Experience",
+  "keyAchievements": "Key Achievements:",
+  "experiences": [
+    {
+      "date": "February 2024 – December 2025",
+      "title": "Digital Project Manager",
+      "company": "EnginHero — Bangkok, Thailand",
+      "description": "Led end-to-end IT project delivery for a large-scale CRM platform serving thousands of certified professionals.",
+      "achievements": [
+        "Translated business needs into detailed functional specifications and actionable development plans",
+        "Managed cross-functional teams across planning, execution, and closure — including an external development agency",
+        "Enforced SLA compliance and handled issue resolution throughout the vendor engagement",
+        "Resolved bugs and built enhancements directly using JavaScript and PHP/Laravel",
+        "Conducted end-user training and produced adoption documentation for new platform features",
+        "Ensured 99.9% platform availability throughout the engagement"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "Full-Stack Developer",
+      "company": "E-commerce Platform — Client Project",
+      "description": "Sole developer on a full e-commerce platform, from client requirements through production deployment.",
+      "achievements": [
+        "Defined IT solution requirements with the client and designed the full technical architecture",
+        "Implemented database, authentication, and payment gateway integrations (Stripe, PayPal)",
+        "Provided ongoing technical support and issue resolution post-launch"
+      ]
+    },
+    {
+      "date": "November 2023 – February 2024",
+      "title": "Front-End Developer",
+      "company": "Freelance",
+      "description": "Delivered front-end web projects for clients, managing scope, timelines, and stakeholder expectations.",
+      "achievements": [
+        "Managed scope and stakeholder expectations from requirements through post-launch",
+        "Produced step-by-step documentation for non-technical clients to ensure confident platform adoption",
+        "Provided technical support and issue resolution post-launch"
+      ]
+    }
+  ],
+
+  "educationTitle": "Education & Certifications",
+  "education": [
+    {
+      "year": "2025",
+      "degree": "Digital Project Manager",
+      "school": "OpenClassrooms / Institut Européen",
+      "bullets": [
+        "End-to-end IT projects covering UX/UI, web platforms, AI integration, digital marketing, and GDPR compliance",
+        "Developed project management best practices and documentation standards across multiple deliverables",
+        "Managed infrastructure projects with budget planning and resource allocation"
+      ]
+    },
+    {
+      "year": "2023",
+      "degree": "Web Developer",
+      "school": "OpenClassrooms",
+      "bullets": [
+        "Built full-stack applications with JavaScript, ReactJS, Node.js/Express, PostgreSQL, REST API, and secure authentication",
+        "Hands-on experience with Linux environments, server-side development, and system administration"
+      ]
+    }
+  ],
+  "certificationsTitle": "Certifications",
+  "certifications": [
+    "Chef de projet digital — RNCP Level 6 — OpenClassrooms / Institut Européen — February 2026",
+    "Développeur intégrateur web — RNCP Level 5 (NSF 326t) — OpenClassrooms — November 2023"
+  ],
+  "languagesTitle": "Languages",
+  "languages": [
+    { "name": "French", "level": "Native" },
+    { "name": "English", "level": "Professional" },
+    { "name": "Thai", "level": "Beginner" }
+  ],
+
+  "projectShowcaseTitle": "Featured Projects",
+  "projectShowcaseSubtitle": "A selection of projects from my training — each one a real deliverable, not a class exercise.",
+  "viewAllProjects": "View All Projects",
+  "viewDetails": "View Details",
+  "technologies": "Technologies:",
+
+  "projectsTitle": "My Projects",
+  "projectsSubtitle": "Deliverables from my project management and web development training. Each project reflects real constraints, real decisions, and real outputs.",
+  "allProjects": "All",
+  "workProjects": "Work",
+  "schoolProjects": "School",
+
+  "duration": "Duration",
+  "teamSize": "Team Size",
+  "budget": "Budget",
+  "technologiesUsed": "Technologies Used",
+  "challenge": "Objective",
+  "solution": "Results",
+  "keyResults": "Challenges",
+  "skills": "Skills evaluated",
+  "backToProjects": "← Back to All Projects",
+
+  "contactTitle": "Get In Touch",
+  "contactSubtitle": "Open to new opportunities — remote or on-site. Whether you want to discuss a project, a role, or just connect, I'm easy to reach.",
+  "letsConnect": "Let's Connect",
+  "email": "Email",
+  "phone": "Phone",
+  "location": "Location",
+  "name": "Name",
+  "subject": "Subject",
+  "message": "Message",
+  "required": "*",
+  "sendMessage": "Send Message",
+  "sending": "Sending...",
+  "thankYou": "Thank You!",
+  "messageSent": "Your message has been sent. I'll get back to you quickly.",
+  "address": "Bangkok, Thailand",
+
+  "copyright": "© 2026 Olivier Gautheron. All rights reserved.",
+  "footerDescription": "Digital Project Manager",
+
+  "completed": "Completed",
+  "inProgress": "In Progress",
+
+  "switchToDark": "Switch to dark theme",
+  "switchToLight": "Switch to light theme",
+  "light": "Light",
+  "dark": "Dark"
+}

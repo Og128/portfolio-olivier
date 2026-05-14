@@ -1,0 +1,385 @@
+{
+  "projet3": {
+    "id": "projet3",
+    "title": "Creation of an accessible and ergonomic digital solution for a client.",
+    "type": "School",
+    "status": "Completed",
+    "image": "/imgs/Projet_3/logo.png",
+    "images": [
+      "/imgs/Projet_3/figma_about.png",
+      "/imgs/Projet_3/figma_accueil.png",
+      "/imgs/Projet_3/figma_resto.png"
+    ],
+    "technologies": ["Figma", "Canva", "Whimsical"],
+    "description": "I led the complete redesign and migration of a legacy e-commerce platform serving over 50,000 active users. This project involved modernizing an outdated architecture, implementing responsive design principles, and integrating third-party payment solutions. As the project manager, I coordinated between the development, UX/UI, and business stakeholder teams to ensure a seamless user experience while maintaining data integrity throughout the migration process.",
+    "challenge": "The current Ohmyfood website no longer reflected the desired brand image: outdated design, poor user experience, and lack of accessibility. The challenge was to propose a modern, cohesive visual identity while designing a clear user journey for customers seeking to quickly and intuitively book a restaurant.",
+    "solution": "I began by analyzing the existing visual identity and provided specific recommendations to create a new visual identity aligned with their positioning. I then designed two personas representing the target users, followed by a complete user flow to map their entire journey on the site. The ergonomic guidelines formed the basis for creating wireframes and graphic mockups in Figma, focusing on three key screens: the homepage, the 'About Us' page, and a 'Restaurant' page including a reservation form.",
+    "results": [
+      "Analysis of the existing visual identity",
+      "Writing UX/UI recommendations",
+      "Creation of personas and user flow",
+      "Design of wireframes and mockups in Figma",
+      "Implementation of ergonomic guidelines",
+      "Coordination with the client and internal teams",
+      "UX monitoring and accessibility best practices"
+    ],
+    "skills": [
+      "Analysis of the existing visual identity",
+      "Writing UX/UI recommendations",
+      "Creation of personas and user flow",
+      "Design of wireframes and mockups in Figma",
+      "Implementation of ergonomic guidelines",
+      "Coordination with the client and internal teams",
+      "UX monitoring and accessibility best practices"
+    ]
+  },
+
+  "projet4": {
+    "id": "projet4",
+    "title": "Development of the OhMyFood WordPress website based on UX/UI mockups",
+    "type": "School",
+    "status": "Completed",
+    "image": "/imgs/Projet_4/logo_sombre.png",
+    "images": [
+      "/imgs/Projet_4/figma_about.png",
+      "/imgs/Projet_4/figma_accueil.png",
+      "/imgs/Projet_4/figma_resto.png"
+    ],
+    "technologies": ["WordPress", "HTML", "CSS", "JavaScript"],
+    "description": "Following the validation of the mockups created in the previous project, I handled the full development of the OhMyFood website on WordPress to meet the client's deadlines. I integrated the main pages, developed key features, ensured accessibility, and produced complete technical documentation for the client.",
+    "challenge": "The challenge was to transform Figma mockups into a functional, secure, and accessible WordPress website without using a page builder, while mastering new languages (HTML, CSS, PHP, JavaScript) and building on a partially prepared codebase.",
+    "solution": "I configured WordPress locally, imported the provided architecture, and integrated the mockups by developing a child theme. I carried out responsive integration for the 'Home', 'About', and 'Restaurant' pages, developed a contest pop-up in JavaScript, implemented two forms (reservation + contest entry), optimized accessibility via Lighthouse, added a security extension, and exported the site for delivery. Finally, I wrote detailed technical documentation covering CMS choices, plugins, code structure, and maintenance best practices.",
+    "results": [
+      "Successful launch with over 50,000 downloads in the first month",
+      "Achieved a 4.8/5 rating on app stores",
+      "No security incidents during launch and the first year of operation",
+      "Reduced customer service calls by 30% thanks to self-service features",
+      "Compliance with all regulatory requirements during the first audit",
+      "Increased customer engagement by 60% with enhanced app features"
+    ],
+    "skills": [
+      "WordPress integration (child theme)",
+      "HTML / CSS / PHP / JavaScript development",
+      "Form implementation with Contact Form 7",
+      "Responsive integration with strict adherence to mockups",
+      "Creation of an interactive pop-up in pure JavaScript",
+      "Accessibility optimization (Lighthouse 80+)",
+      "Implementation of WordPress security (firewall, scans)",
+      "Writing clear and structured technical documentation",
+      "Independent project management and deadline compliance"
+    ]
+  },
+
+  "projet6": {
+    "id": "projet6",
+    "title": "Brand Content and Social Media Strategy for Éclat Lifestyle",
+    "type": "School",
+    "status": "Completed",
+    "image": "/imgs/Projet_6/logo_el.png",
+    "images": [
+      "/imgs/Projet_6/Campagnehome.png",
+      "/imgs/Projet_6/campagnereels.png",
+      "/imgs/Projet_6/Campagnestories.png",
+      "/imgs/Projet_6/logo_el.png",
+      "/imgs/Projet_6/logo_el_sf.png",
+      "/imgs/Projet_6/Publication1.png",
+      "/imgs/Projet_6/Publication2.png",
+      "/imgs/Projet_6/Publication3.png"
+    ],
+    "technologies": ["Figma", "Google Docs", "Scikit-learn", "Tableau", "SQL", "Git", "Jupyter"],
+    "description": "As part of a school project simulating a corporate assignment, I developed the brand content strategy for the premium lifestyle brand, Éclat Lifestyle. The project included analyzing an Instagram Ads campaign, creating a strategic brief, designing a quarterly editorial calendar, and producing optimized organic and paid content.",
+    "challenge": "The brand lacked visibility in a highly competitive market. The challenge was to identify weaknesses in their current communication, optimize their social media campaigns, and propose a strategy that aligned with their premium positioning — all while respecting realistic budgetary and editorial constraints for an SME.",
+    "solution": "I started by analyzing the latest Instagram Ads campaign, evaluating its performance (KPIs, targeting, formats, messages), and identifying areas for improvement. I then built a comprehensive brand content strategy: goals, targets, key messages, editorial line, channels, formats, AIDA method. This strategy was translated into a three-month editorial calendar. I also produced the first three organic content pieces and designed a new Instagram Ads campaign (mock-up), optimized according to best engagement and conversion practices.",
+    "results": [
+      "Reduced delivery time by 20% thanks to optimized routing",
+      "Reduced operational costs by 15% through efficient resource allocation",
+      "Improved stock turnover by 25%",
+      "Created predictive models with 85% accuracy for demand forecasting",
+      "Won the 'Best Data Science Project' award in the program",
+      "Generated actionable insights leading to $2M in annual savings"
+    ],
+    "skills": [
+      "Instagram Ads campaign analysis (KPIs, benchmark, areas for improvement)",
+      "Development of a coherent brand content strategy focused on image",
+      "Creation of an editorial line and application of the AIDA method",
+      "Design of a quarterly editorial calendar",
+      "Creation of organic social media content (mock-ups)",
+      "Creation of an optimized Instagram Ads campaign",
+      "Competitive benchmarking and SWOT analysis"
+    ]
+  },
+
+  "projet8": {
+    "id": "projet8",
+    "title": "Deployment of a Complete SEM Strategy for Éclat Lifestyle",
+    "type": "School",
+    "status": "Completed",
+    "image": "/imgs/Projet_6/logo_el_sf.png",
+    "images": [
+      "/imgs/Projet_6/logo_el_sf.png",
+      "/imgs/Projet_8/mail_el.png",
+      "/imgs/Projet_8/mail_el2.png",
+      "/imgs/Projet_8/mail_el3.png",
+      "/imgs/Projet_8/mail_el4.png",
+      "/imgs/Projet_8/mail_el5.png",
+      "/imgs/Projet_8/lookerstudio.png",
+      "/imgs/Projet_8/lookerstudio2.png"
+    ],
+    "technologies": ["Looker Studio", "Figma", "Google Analytics", "Google Ads", "Alyze"],
+    "description": "As part of a professional simulation, I refined and implemented the SEM strategy for Éclat Lifestyle. I analyzed web traffic using Google Analytics, created SEO recommendations, built the first Google Ads campaign, selected an appropriate CRM, and set up an automated email sequence in Mailchimp. The entire process was summarized in a presentation for the executive committee.",
+    "challenge": "The brand needed to enhance its visibility and increase qualified traffic to its e-commerce site. The challenge was to turn a global marketing strategy into concrete, operational, and measurable SEM actions using different professional tools (GA, Google Ads, CRM, Mailchimp) while producing a compelling presentation for the executive board.",
+    "solution": "I started by analyzing the data from Google Analytics and the SEO audit to define priority recommendations: keywords, technical optimizations, UX, and content. Then, I built a test SEA campaign on Google Ads by defining audience, keywords, budget, and ad group structure. Next, I conducted a CRM benchmark analysis to recommend the best solution for the brand, and I set up a Mailchimp email sequence including segmentation, automation, and optimization of open/click rates. The entire work was consolidated into a structured four-part presentation: SEO, SEA, CRM/emailing, and KPIs.",
+    "results": [
+      "Efficient management of over 10,000 student records",
+      "Reduced administrative workload by 40%",
+      "Improved course scheduling accuracy by 95%",
+      "Created user-friendly interfaces for all types of users",
+      "Excellent code quality with over 90% test coverage",
+      "Highest rating in the computer science program"
+    ],
+    "skills": [
+      "Google Analytics data analysis and SEO recommendations formulation",
+      "Interpretation of technical SEO audits",
+      "Creation of a Google Ads campaign (SEA)",
+      "Selection of a CRM from a comparative benchmark",
+      "Creation of a segmented and automated email sequence on Mailchimp",
+      "Establishment of KPIs to track SEM strategy",
+      "Strategic synthesis and creation of a professional presentation for the executive committee",
+      "Performance-oriented digital marketing project management"
+    ]
+  },
+
+  "projet10": {
+    "id": "projet10",
+    "title": "Designing Data Infrastructure and Analysis Tools for ArtisanConnect",
+    "type": "School",
+    "status": "In Progress",
+    "image": "/imgs/Projet_10/logo.png",
+    "images": [
+      "/imgs/Projet_10/logo.png",
+      "/imgs/Projet_10/lookerstudio.png",
+      "/imgs/Projet_10/logique.png"
+    ],
+    "technologies": ["PostgreSQL", "DB Browser", "Looker Studio", "Google Colab", "Draw.io"],
+    "description": "In this project, I led the complete creation of the data infrastructure for ArtisanConnect, a marketplace dedicated to local artisans. I designed a UML schema structuring the entire system, developed SQL scripts to create and populate the database, defined user roles according to security principles and GDPR, integrated an AI-based customer feedback analysis system, and created a decision-making dashboard in Looker Studio.",
+    "challenge": "The company needed a solid, secure, and GDPR-compliant database while integrating advanced analysis capabilities via AI to quickly process user feedback. The main challenge was to address both technical aspects (UML modeling, SQL, AI, data visualization) and strategic issues (management, security, data governance), making the entire system usable for the Tech team.",
+    "solution": "I analyzed the provided dataset to identify the key entities of a marketplace (clients, artisans, products, orders, reviews, etc.). I then designed a normalized UML schema and translated this model into complete SQL scripts to create and populate the SQLite database. I defined user roles and access rules according to the principle of least privilege. Using the provided notebook, I integrated an AI-based customer feedback analysis feature (Mistral), which automatically detects the sentiment of each review. Finally, I designed a Looker Studio dashboard that allowed the director to track key KPIs.",
+    "results": [
+      "Real-time inventory tracking across more than 50 locations",
+      "Reduced stockouts by 45% through predictive analytics",
+      "Improved inventory accuracy from 75% to 96%",
+      "Reduced manual inventory counting time by 60%",
+      "Improved supplier relationship management",
+      "Positive ROI within 6 months of deployment"
+    ],
+    "skills": [
+      "UML modeling and data architecture design",
+      "SQL database creation and manipulation (SQLite)",
+      "Normalization, foreign keys, and complex relationships",
+      "Integration of AI analysis for customer feedback",
+      "Creation of a Looker Studio dashboard for management",
+      "Application of GDPR principles to data infrastructure",
+      "Definition of user roles and access rights management",
+      "Clear and structured technical documentation"
+    ]
+  },
+
+  "projet11": {
+    "id": "projet11",
+    "title": "Testing, accessibility, and deployment preparation for the ArtisanConnect website",
+    "type": "School",
+    "status": "Completed",
+    "image": "/imgs/Projet_11/logo.png",
+    "images": [
+      "/imgs/Projet_11/logo.png",
+      "/imgs/Projet_11/ac_command.png",
+      "/imgs/Projet_11/ac_create.png",
+      "/imgs/Projet_11/ac_dashboard.png",
+      "/imgs/Projet_11/ac_guide.png",
+      "/imgs/Projet_11/ac_login.png",
+      "/imgs/Projet_11/ac_produit.png"
+    ],
+    "technologies": ["Notion", "PHP", "Canva"],
+    "description": "In this project, I carried out the full testing phase of the ArtisanConnect back office and prepared its upcoming deployment. I created a structured test plan, evaluated ergonomics, accessibility, security, and GDPR compliance, then drafted a deployment plan, a maintenance plan, and a user guide intended for artisans.",
+    "challenge": "The main challenge was to ensure the site's quality, reliability, and accessibility before its production release, while organizing a proactive and responsible deployment. This required analyzing an unhosted first prototype, testing every feature from the artisan's perspective, identifying issues, proposing fixes, and simultaneously structuring all required documentation.",
+    "solution": "I installed V1 locally to perform a full testing suite based on a structured Notion protocol, with numbered test cases, annotated screenshots, anomaly categorization, and precise recommendations. Once testing was completed, I prepared the deployment: drafting an action plan up to go-live, defining a maintenance plan considering security and service continuity, assigning tasks to the future cybersecurity developer, and creating an illustrated and accessible user guide for artisans.",
+    "results": [
+      "Successful deployment of a HIPAA-compliant portal serving over 15,000 patients",
+      "Achieved 99.9% uptime with robust security measures",
+      "Reduced administrative workload by 50% through automation",
+      "Improved patient satisfaction scores by 35%",
+      "No security breaches since deployment",
+      "Passed all regulatory audits on the first attempt"
+    ],
+    "skills": [
+      "Creation of a complete and rigorous test plan",
+      "Execution of functional, UX, accessibility, and security testing",
+      "Issue detection and drafting of corrective recommendations",
+      "Preparation of a deployment plan (phases, risks, communication, deliverables)",
+      "Writing of a maintenance plan (corrective, evolutionary, and preventive)",
+      "Creation of a user guide with annotated screenshots",
+      "Coordination with developers (back-end, cybersecurity)",
+      "Integration of GDPR and CSR considerations into a digital project"
+    ]
+  },
+
+  "projet13": {
+    "id": "projet13",
+    "title": "Development of a comprehensive web marketing plan for the Hyatt Regency Paris Étoile hotel",
+    "type": "School",
+    "status": "Completed",
+    "image": "/imgs/Projet_13/Logo_hyatt.png",
+    "images": [
+      "/imgs/Projet_13/Logo_hyatt.png",
+      "/imgs/Projet_13/2.png",
+      "/imgs/Projet_13/3.png",
+      "/imgs/Projet_13/4.png",
+      "/imgs/Projet_13/5.png",
+      "/imgs/Projet_13/Logo_hyatt_sf.png"
+    ],
+    "technologies": ["Google Analytics", "Canva", "Ahrefs", "Semrush"],
+    "description": "In this project, I designed a complete digital acquisition strategy for a luxury hotel of the Hyatt group. This work included market analysis, persona creation, competitive audit, SWOT analysis, definition of SMART objectives, and the development of a SEO, SEA, and Social Media strategy aligned with the hotel's needs.",
+    "challenge": "The hotel, recently renovated, needed to win back its usual clientele while attracting a more connected and international audience. The main challenge was to define an effective and cost-efficient strategy in a highly competitive market (luxury hospitality in Paris), while aligning acquisition channels with business objectives, premium traveler behavior, and industry standards.",
+    "solution": "I began by defining four personas based on socio-demographic and behavioral criteria (premium families, leisure couples, international travelers, and digital nomads). I then conducted a full benchmark of three direct competitors to identify their SEO, SEA, social media, and partnership strategies. Based on this analysis, I created the hotel's SWOT matrix and defined SMART objectives for each acquisition channel. I then wrote an SEO roadmap, designed a multi-campaign SEA strategy, and developed a traffic-oriented social media editorial approach.",
+    "results": [
+      "Built a fully functional platform with 95% test coverage",
+      "Implemented advanced customer segmentation with 85% accuracy",
+      "Developed an automated workflow system reducing manual tasks by 70%",
+      "Created real-time analytics with sub-second response times",
+      "Achieved the highest grade in the Advanced Web Development course",
+      "Platform prepared for commercial deployment with minimal adjustments"
+    ],
+    "skills": [
+      "Creation of personas based on socio-behavioral data",
+      "Competitive benchmark (SEO, SEA, social media, content)",
+      "Development of a strategic SWOT analysis",
+      "Definition of SMART objectives by acquisition channel",
+      "Design of a complete SEO strategy (technical, content, backlinks)",
+      "Creation of a multi-campaign Google Ads SEA strategy",
+      "Development of an editorial calendar and social media editorial guidelines",
+      "Definition of KPIs and implementation of a performance tracking dashboard",
+      "Digital marketing budget estimation and ROI calculation"
+    ]
+  },
+
+  "projet14": {
+    "id": "projet14",
+    "title": "End-to-end management of a digital project using a hybrid methodology, \"Hello Hercule\" Application",
+    "type": "School",
+    "status": "Completed",
+    "image": "/imgs/Projet_14-15/logo_hello_hercule.png",
+    "images": [
+      "/imgs/Projet_14-15/logo_hello_hercule.png",
+      "/imgs/Projet_14-15/hh_backlog.png",
+      "/imgs/Projet_14-15/hh_prevention.png",
+      "/imgs/Projet_14-15/hh_raci.png",
+      "/imgs/Projet_14-15/hh_ticket.png"
+    ],
+    "technologies": ["Notion", "Canva"],
+    "description": "This two-part project allowed me to lead the creation of a mobile application in the Food Tech sector, from the scoping phase to the agile management phase. I first applied the waterfall methodology to structure version 1 of the application: recruitment plan, RACI matrix, Gantt chart, calls for tender, and task planning. In the second phase, I switched to an agile approach by selecting a collaborative tool, building a product backlog, and creating both a validation plan and a risk prevention plan.",
+    "challenge": "Designing and managing an ambitious digital project for a start-up from scratch, while combining two different methodologies (waterfall + agile). The main challenge was to precisely structure the roadmap, select the right partners, organize future collaboration smoothly, and secure the project through thorough risk anticipation.",
+    "solution": "I began by defining the project requirements and structuring the team through a recruitment plan, then established roles and responsibilities using a RACI matrix. I then built a complete Gantt chart based on the phases of the waterfall methodology. I also drafted a call for tender for the marketing component as well as an evaluation grid for vendors. In the agile phase, I conducted a benchmark of five collaborative tools before selecting the most suitable one. I then created a structured Kanban product backlog with MoSCoW prioritization, a validation plan, and a risk prevention plan.",
+    "results": [
+      "Successfully processed over 100,000 data points per hour from multiple types of sensors",
+      "Built predictive models achieving 90% accuracy for traffic optimization",
+      "Developed a real-time alert system for air quality violations",
+      "Reduced the analysis time for energy consumption from days to minutes",
+      "Won the 'Best Innovation Project' award at the university research symposium",
+      "Generated actionable insights leading to a 12% reduction in city-wide energy costs"
+    ],
+    "skills": [
+      "Building a recruitment plan",
+      "Creating a RACI matrix and clearly defining responsibilities",
+      "Full planning using a Gantt chart (waterfall methodology)",
+      "Drafting a call for tender and evaluation grid",
+      "Benchmarking and selecting a collaborative tool (Notion, Trello, Asana, ClickUp...)",
+      "Creating a product backlog (Kanban + MoSCoW)",
+      "Implementing an agile validation plan",
+      "Developing a risk prevention plan",
+      "Strategic synthesis and project presentation to decision-makers"
+    ]
+  },
+
+  "projet16": {
+    "id": "projet16",
+    "title": "Eco-Innovative Digital Strategy and Specification for an AI Chatbot — Green Futur",
+    "type": "School",
+    "status": "Completed",
+    "image": "/imgs/Projet_16/logo_greenfutur.png",
+    "images": [
+      "/imgs/Projet_16/logo_greenfutur.png"
+    ],
+    "technologies": ["Google", "Canva"],
+    "description": "I wrote a functional and operational specification for the design and deployment of an AI chatbot for Green Futur (a fictitious company engaged in eco-innovation). The deliverable includes the context, strategic analysis (market research, PESTEL, benchmark, SWOT), personas, AI tool selection, agile integration plan, CSR/GDPR compliance, and KPIs for tracking.",
+    "challenge": "Designing a relevant and secure AI chatbot that integrates into Green Futur's existing ecosystem, improves customer relations, while adhering to strict constraints: data protection (GDPR), environmental impact (CSR), and usability requirements for both internal and external users.",
+    "solution": "After conducting technological and regulatory research, I performed a PESTEL and benchmark analysis of competitors and AI solutions, then established a SWOT focused on the chatbot project. I defined 2-3 target personas, listed functional and non-functional needs, compared 4 AI tools using a weighted decision matrix, and proposed the most suitable tool. I formalized an iterative deployment plan (sprints, testing, training), the necessary technical integrations, and a set of SMART KPIs.",
+    "results": [
+      "Successfully processed over 100,000 data points per hour from multiple sensor types",
+      "Created predictive models with 90% accuracy for traffic optimization",
+      "Developed a real-time alert system for air quality violations",
+      "Reduced energy consumption analysis time from days to minutes",
+      "Won the 'Best Innovation Project' award at the university research symposium",
+      "Generated actionable insights leading to a 12% reduction in city-wide energy costs"
+    ],
+    "skills": [
+      "Writing functional and operational specifications",
+      "Technology and legal research (GDPR, CSR) and conducting PESTEL/SWOT analysis",
+      "Benchmarking and decision matrix for selecting AI tools",
+      "Building personas and translating them into product requirements",
+      "Agile deployment plan (iterations, testing, training)",
+      "Defining SMART KPIs (resolution rate, satisfaction, compliance)",
+      "Considering environmental impact and CSR constraints"
+    ]
+  },
+
+  "projet17": {
+    "id": "projet17",
+    "link": "https://labrocantedenanie.com",
+    "title": "La Brocante de Nanie — E-commerce Site",
+    "type": "Work",
+    "status": "Completed",
+    "image": "/imgs/Projet_17/logo.png",
+    "images": [
+      "/imgs/Projet_17/screenshot-homepage.png",
+      "/imgs/Projet_17/screenshot-boutique.png",
+      "/imgs/Projet_17/screenshot-product.png",
+      "/imgs/Projet_17/screenshot-cart.png",
+      "/imgs/Projet_17/screenshot-admin.png"
+    ],
+    "technologies": [
+      "Next.js 14",
+      "TypeScript",
+      "TailwindCSS",
+      "Prisma",
+      "PostgreSQL",
+      "Supabase",
+      "Stripe",
+      "Cloudinary",
+      "Resend",
+      "NextAuth.js",
+      "Zustand",
+      "Hostinger"
+    ],
+    "description": "Designed and developed a complete e-commerce platform for a French antique dealer, from storefront to payment processing and order management. Built a custom admin panel allowing the non-technical client to manage products, orders, and shipping rules independently. The site went live at labrocantedenanie.com and handles real transactions.",
+    "challenge": "The client had zero digital presence and no technical knowledge. The solution had to cover product management, secure payments, automated emails, dynamic weight-based shipping fees, and image hosting — all deployable on a budget hosting provider without a DevOps pipeline, while remaining fully manageable by the client without any developer intervention.",
+    "solution": "Built a Next.js 14 App Router application with a CMS-style admin panel for full product and order control. Integrated Stripe with webhook handling for reliable payment processing. Implemented a weight-based shipping calculator driven by rules stored in the database and editable from the admin panel. Used Cloudinary for image hosting with automatic optimization, and Resend for transactional emails — customer order confirmations and admin sale notifications. Configured Supabase PostgreSQL with Prisma ORM and handled the Hostinger deployment constraints.",
+    "results": [
+      "Delivered a fully functional production e-commerce site live at labrocantedenanie.com",
+      "Admin panel enabling the client to create products, manage orders, configure shipping rules, and track sales without any developer help",
+      "Automated dual-email system: order confirmation to customers and sale notification to the owner on every purchase",
+      "Dynamic weight-based shipping calculation replacing hardcoded frontend rates, configurable per product with a free-shipping toggle",
+      "Full production-ready storefront: clickable image gallery, category filtering, order tracking page, and legal pages"
+    ],
+    "skills": [
+      "Full-stack development with Next.js App Router (SSR + client components)",
+      "Client requirement gathering and translation into technical specifications",
+      "Third-party API integration (Stripe, Cloudinary, Resend, Supabase)",
+      "Database schema design and migration management with Prisma ORM",
+      "E-commerce payment flow implementation with webhook-driven order processing",
+      "Admin panel / CMS development for non-technical end users",
+      "Deployment and production configuration on Hostinger Node.js hosting",
+      "Iterative development with continuous client feedback and live testing",
+      "Debugging and diagnosing production environment issues"
+    ]
+  }
+}

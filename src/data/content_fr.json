@@ -1,0 +1,148 @@
+{
+  "home": "Accueil",
+  "projects": "Projets",
+  "contact": "Contact",
+
+  "heroTitle": "Chef de Projet Digital",
+  "viewProjects": "Voir Mes Projets",
+  "getInTouch": "Me Contacter",
+
+  "aboutTitle": "À Propos de Moi",
+  "aboutIntro": "Je pilote des projets IT de A à Z — et je peux lire le code. Je rédige les specs, gère les prestataires, coordonne les équipes, et corrige les bugs moi-même en JavaScript ou PHP.",
+  "aboutBackground": "J'ai livré un CRM à grande échelle, géré une agence externe, et déployé seul une plateforme e-commerce. Certifié RNCP en gestion de projet digital (Niveau 6) et développement web (Niveau 5).",
+  "aboutPassion": "Basé à Bangkok. Disponible en remote ou relocation. En dehors du boulot : hardware, réseaux, et F1.",
+  "coreSkills": "Compétences Principales",
+  "aboutSkills": [
+    "Pilotage IT de bout en bout",
+    "Rédaction de spécifications fonctionnelles",
+    "Gestion prestataires & conformité SLA",
+    "Méthodologies Agile & Waterfall",
+    "Coordination d'équipes pluridisciplinaires",
+    "JavaScript / ReactJS / Node.js / PHP",
+    "PostgreSQL / REST API / Git"
+  ],
+
+  "experienceTitle": "Expérience Professionnelle",
+  "keyAchievements": "Réalisations Clés :",
+  "experiences": [
+    {
+      "date": "Février 2024 – Décembre 2025",
+      "title": "Chef de Projet Digital",
+      "company": "EnginHero — Bangkok, Thaïlande",
+      "description": "Pilotage complet d'un CRM à grande échelle pour des milliers de professionnels certifiés.",
+      "achievements": [
+        "Traduction des besoins métier en spécifications fonctionnelles détaillées et plans de développement opérationnels",
+        "Management d'équipes pluridisciplinaires de la planification à la clôture, dont une agence de développement externe",
+        "Suivi de la conformité SLA et résolution des incidents tout au long de la mission prestataire",
+        "Résolution directe de bugs et développement d'améliorations en JavaScript et PHP/Laravel",
+        "Formation des utilisateurs finaux et production de documentation d'adoption pour les nouvelles fonctionnalités",
+        "Maintien d'une disponibilité plateforme à 99,9% pendant toute la durée de la mission"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "Développeur Full-Stack",
+      "company": "Plateforme E-commerce — Projet Client",
+      "description": "Développeur unique sur une plateforme e-commerce complète, du cahier des charges au déploiement en production.",
+      "achievements": [
+        "Définition des besoins IT avec le client et conception de l'architecture technique complète",
+        "Mise en place de la base de données, de l'authentification et des intégrations de paiement (Stripe, PayPal)",
+        "Support technique continu et résolution d'incidents après le lancement"
+      ]
+    },
+    {
+      "date": "Novembre 2023 – Février 2024",
+      "title": "Développeur Front-End",
+      "company": "Freelance",
+      "description": "Livraison de projets web front-end, gestion du périmètre, des délais et des attentes clients.",
+      "achievements": [
+        "Gestion du périmètre et des parties prenantes du cahier des charges jusqu'au post-lancement",
+        "Rédaction de documentations pas-à-pas pour des clients non-techniques, garantissant une adoption autonome",
+        "Support technique et résolution d'anomalies post-lancement"
+      ]
+    }
+  ],
+
+  "educationTitle": "Formation & Certifications",
+  "education": [
+    {
+      "year": "2025",
+      "degree": "Chef de Projet Digital",
+      "school": "OpenClassrooms / Institut Européen",
+      "bullets": [
+        "Projets IT académiques couvrant UX/UI, plateformes web, intégration IA, marketing digital et conformité RGPD",
+        "Développement de bonnes pratiques de gestion de projet et de standards de documentation",
+        "Gestion d'un projet d'infrastructure complet avec planification budgétaire et allocation des ressources"
+      ]
+    },
+    {
+      "year": "2023",
+      "degree": "Développeur Web",
+      "school": "OpenClassrooms",
+      "bullets": [
+        "Développement d'applications full-stack avec JavaScript, ReactJS, Node.js/Express, PostgreSQL, REST API et authentification sécurisée",
+        "Expérience pratique en environnements Linux, développement côté serveur et administration système"
+      ]
+    }
+  ],
+  "certificationsTitle": "Certifications",
+  "certifications": [
+    "Chef de projet digital — RNCP Niveau 6 — OpenClassrooms / Institut Européen — Février 2026",
+    "Développeur intégrateur web — RNCP Niveau 5 (NSF 326t) — OpenClassrooms — Novembre 2023"
+  ],
+  "languagesTitle": "Langues",
+  "languages": [
+    { "name": "Français", "level": "Langue maternelle" },
+    { "name": "Anglais", "level": "Professionnel" },
+    { "name": "Thaï", "level": "Débutant" }
+  ],
+
+  "projectShowcaseTitle": "Projets en Vedette",
+  "projectShowcaseSubtitle": "Une sélection de projets issus de ma formation — de vrais livrables, pas des exercices théoriques.",
+  "viewAllProjects": "Voir Tous les Projets",
+  "viewDetails": "Voir les Détails",
+  "technologies": "Technologies :",
+
+  "projectsTitle": "Mes Projets",
+  "projectsSubtitle": "Livrables issus de mes formations en gestion de projet et développement web. Chaque projet reflète de vraies contraintes, de vraies décisions, et de vrais résultats.",
+  "allProjects": "Tous",
+  "workProjects": "Professionnel",
+  "schoolProjects": "Académique",
+
+  "duration": "Durée",
+  "teamSize": "Taille de l'Équipe",
+  "budget": "Budget",
+  "technologiesUsed": "Technologies Utilisées",
+  "challenge": "Objectif",
+  "solution": "Résultats",
+  "keyResults": "Défis",
+  "skills": "Compétences évaluées",
+  "backToProjects": "← Retour à Tous les Projets",
+
+  "contactTitle": "Restons en Contact",
+  "contactSubtitle": "Ouvert aux nouvelles opportunités — remote ou présentiel. Que vous souhaitiez discuter d'un projet, d'un poste, ou simplement échanger, je suis disponible.",
+  "letsConnect": "Connectons-Nous",
+  "email": "Email",
+  "phone": "Téléphone",
+  "location": "Localisation",
+  "name": "Nom",
+  "subject": "Sujet",
+  "message": "Message",
+  "required": "*",
+  "sendMessage": "Envoyer le Message",
+  "sending": "Envoi...",
+  "thankYou": "Merci !",
+  "messageSent": "Votre message a bien été envoyé. Je vous réponds rapidement.",
+  "address": "Bangkok, Thaïlande",
+
+  "copyright": "© 2026 Olivier Gautheron. Tous droits réservés.",
+  "footerDescription": "Chef de Projet Digital",
+
+  "completed": "Terminé",
+  "inProgress": "En Cours",
+
+  "switchToDark": "Passer au thème sombre",
+  "switchToLight": "Passer au thème clair",
+  "light": "Clair",
+  "dark": "Sombre"
+}
